@@ -3,7 +3,7 @@ import { getProducts } from "../services/productService";
 import { addToCart } from "../services/cartService";
 import "./style.css";
 
-const BASE_URL = 'http://localhost:9090/back1';
+const BASE_URL = 'http://54.198.254.175:8080/ecommerce-backend';
 
 const ProductPage = ({ category }) => {
   const [products, setProducts] = useState([]);
