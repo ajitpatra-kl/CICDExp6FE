@@ -9,8 +9,8 @@ const AboutUs = () => {
       <p>
         Welcome to our E-Commerce platform, your one-stop shop for the latest and greatest in electronics!
         We specialize in high-quality products, including computers, mobiles, laptops, and accessories.
+        Our commitment is to provide quality products with excellent customer service.
       </p>
-
       <div className="about-grid">
       <Link to="/computers">
         <div className="about-item">        
